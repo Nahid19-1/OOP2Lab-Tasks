@@ -48,7 +48,7 @@ namespace Lab3
         }
 
 
-            internal void Showinfo()
+            internal void ShowCourseinfo()
         {
 
             Console.WriteLine("Course Name is :  " + courseName);

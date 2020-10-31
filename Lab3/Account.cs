@@ -57,15 +57,17 @@ namespace Lab3
 
 
         }
-       /* internal void Deposit()
+        internal void Deposit()
         {
-            balance += 
+            balance += balance;
+            Console.WriteLine("After Deposit : " + balance);
         }
 
         internal void Withdraw()
         {
-            balance -=
+            balance -= balance;
+            Console.WriteLine("After Withdraw : " + balance);
         }
-       */
+       
     }
 }

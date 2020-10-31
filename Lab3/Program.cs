@@ -32,7 +32,7 @@ namespace Lab3
             c1.CourseCode = "007";
             c1.CourseCredit = 3;
 
-            c1.Showinfo();
+            c1.ShowCourseinfo();
 
 
             //Account
@@ -41,6 +41,9 @@ namespace Lab3
             a1.AcId = "007";
             a1.Balance = 10000;
             a1.Showinfo();
+            a1.Deposit();
+            a1.Withdraw();
+
 
 
         }
