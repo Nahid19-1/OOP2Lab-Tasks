@@ -47,8 +47,17 @@ namespace Lab3
 
             }
         }
+        internal void Showinfo()
+        {
 
-        internal void Deposit()
+            Console.WriteLine("Account Name is :  " + accName);
+            Console.WriteLine("Account Id is :  " + acId);
+            Console.WriteLine("Account balance :  " + balance);
+
+
+
+        }
+       /* internal void Deposit()
         {
             balance += 
         }
@@ -57,5 +66,6 @@ namespace Lab3
         {
             balance -=
         }
+       */
     }
 }

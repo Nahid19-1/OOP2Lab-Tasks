@@ -24,6 +24,8 @@ namespace Lab3
             t1.Showinfo();
             t1.TestTriangle();
 
+        
+
             //Course
             Course c1 = new Course();
             c1.CourseName = "OOP2";
@@ -31,6 +33,14 @@ namespace Lab3
             c1.CourseCredit = 3;
 
             c1.Showinfo();
+
+
+            //Account
+            Account a1 = new Account();
+            a1.AccName = "Fixed";
+            a1.AcId = "007";
+            a1.Balance = 10000;
+            a1.Showinfo();
 
 
         }
