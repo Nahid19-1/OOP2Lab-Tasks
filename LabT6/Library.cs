@@ -63,14 +63,14 @@ namespace LabT6
                     Console.WriteLine("Can not add Book");
             }
         }
-        public void DeleteBook( params Book[]  listofBook)
+        /*public void DeleteBook( params Book[]  listofBook)
         {
             foreach(var book in listofBook)
             {
                 if (totalBook == )
                     this.listofBook[totalBook--] = book;
             }
-        }
+        }*/
         public void AddNewBookCopy(int copy, params Book[] listofBook)
         {
             foreach(var book in listofBook)
