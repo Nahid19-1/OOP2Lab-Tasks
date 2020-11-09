@@ -11,3 +11,9 @@ E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\LabT6\obj\Debug\n
 E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\LabT6\obj\Debug\netcoreapp3.1\LabT6.dll
 E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\LabT6\obj\Debug\netcoreapp3.1\LabT6.pdb
 E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\LabT6\obj\Debug\netcoreapp3.1\LabT6.genruntimeconfig.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabT6\obj\Debug\netcoreapp3.1\LabT6.csprojAssemblyReference.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabT6\obj\Debug\netcoreapp3.1\LabT6.AssemblyInfoInputs.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabT6\obj\Debug\netcoreapp3.1\LabT6.AssemblyInfo.cs
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabT6\obj\Debug\netcoreapp3.1\LabT6.csproj.CoreCompileInputs.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabT6\obj\Debug\netcoreapp3.1\LabT6.dll
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\LabT6\obj\Debug\netcoreapp3.1\LabT6.pdb
