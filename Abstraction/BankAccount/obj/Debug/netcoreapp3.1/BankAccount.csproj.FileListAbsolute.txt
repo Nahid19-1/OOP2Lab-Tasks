@@ -1,0 +1,13 @@
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Abstraction\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
