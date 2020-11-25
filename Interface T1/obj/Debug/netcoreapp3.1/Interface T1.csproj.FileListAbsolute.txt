@@ -1,0 +1,13 @@
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\bin\Debug\netcoreapp3.1\Interface T1.exe
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\bin\Debug\netcoreapp3.1\Interface T1.deps.json
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\bin\Debug\netcoreapp3.1\Interface T1.runtimeconfig.json
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\bin\Debug\netcoreapp3.1\Interface T1.runtimeconfig.dev.json
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\bin\Debug\netcoreapp3.1\Interface T1.dll
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\bin\Debug\netcoreapp3.1\Interface T1.pdb
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\obj\Debug\netcoreapp3.1\Interface T1.csprojAssemblyReference.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\obj\Debug\netcoreapp3.1\Interface T1.AssemblyInfoInputs.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\obj\Debug\netcoreapp3.1\Interface T1.AssemblyInfo.cs
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\obj\Debug\netcoreapp3.1\Interface T1.csproj.CoreCompileInputs.cache
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\obj\Debug\netcoreapp3.1\Interface T1.dll
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\obj\Debug\netcoreapp3.1\Interface T1.pdb
+E:\Study marfy\UN\Semister 6\OBJECT ORIENTED PROGRAMMING 2 [L]\Lab task\Interface T1\obj\Debug\netcoreapp3.1\Interface T1.genruntimeconfig.cache
