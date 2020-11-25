@@ -22,6 +22,7 @@ namespace Interface_T1
         {
             Console.WriteLine("Name :" + Name);
             Console.WriteLine("Task Type :" + TaskType);
+            Console.WriteLine("---------------------" );
         }
     }
 }

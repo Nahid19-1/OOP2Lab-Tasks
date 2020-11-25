@@ -2,8 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace Interface_T1
 {
+    
     class Calculation : Calculator, IBasicCalculator, IScientificCalculator
     {
         public Calculation()
@@ -38,10 +40,11 @@ namespace Interface_T1
             int sum = x + y;
             Console.WriteLine("The Sum is : "+sum);
         }
-
+        
         public void XtoY(int x, int y)
         {
-            int xtoy = x *y;
+
+            double xtoy = Math.Pow( x, y);
             Console.WriteLine("The XtoY is  : "+xtoy);
         }
     }

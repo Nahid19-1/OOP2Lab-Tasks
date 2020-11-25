@@ -9,7 +9,11 @@ namespace Interface_T1
             Calculation c1 = new Calculation("Math", "Easy");
             c1.Sum(5,5);
             c1.ShowInfo();
-            c1.Devision(2, 2);
+            Calculation c2 = new Calculation("Physics", "Hard");
+            c2.Devision(2, 2);
+            c1.ShowInfo();
+
+            c1.XtoY(3, 3);
             c1.ShowInfo();
 
         }
