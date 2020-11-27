@@ -27,7 +27,8 @@ namespace Interface_T3
             Title = title;
         }
 
-        public void ShowInfo()
+     
+        public void ShowMusicFileInfo()
         {
             Console.WriteLine("Title is :" + Title);
             Console.WriteLine("Artist Name :" + Artist);
