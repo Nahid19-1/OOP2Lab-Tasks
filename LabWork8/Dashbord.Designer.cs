@@ -28,66 +28,66 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.radioButtonAddUser = new System.Windows.Forms.RadioButton();
-            this.radioButtonDeleteUser = new System.Windows.Forms.RadioButton();
-            this.radioButtonUpdateUser = new System.Windows.Forms.RadioButton();
+            this.buttonAdduser = new System.Windows.Forms.Button();
+            this.buttonDeletwuser = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // radioButtonAddUser
+            // buttonAdduser
             // 
-            this.radioButtonAddUser.AutoSize = true;
-            this.radioButtonAddUser.Font = new System.Drawing.Font("Cambria", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButtonAddUser.Location = new System.Drawing.Point(120, 53);
-            this.radioButtonAddUser.Name = "radioButtonAddUser";
-            this.radioButtonAddUser.Size = new System.Drawing.Size(107, 26);
-            this.radioButtonAddUser.TabIndex = 0;
-            this.radioButtonAddUser.TabStop = true;
-            this.radioButtonAddUser.Text = "Add User";
-            this.radioButtonAddUser.UseVisualStyleBackColor = true;
+            this.buttonAdduser.AccessibleName = "Login";
+            this.buttonAdduser.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.buttonAdduser.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonAdduser.Location = new System.Drawing.Point(33, 76);
+            this.buttonAdduser.Name = "buttonAdduser";
+            this.buttonAdduser.Size = new System.Drawing.Size(201, 45);
+            this.buttonAdduser.TabIndex = 14;
+            this.buttonAdduser.Text = "Add user";
+            this.buttonAdduser.UseVisualStyleBackColor = false;
+            this.buttonAdduser.Click += new System.EventHandler(this.AppearDashbord2);
             // 
-            // radioButtonDeleteUser
+            // buttonDeletwuser
             // 
-            this.radioButtonDeleteUser.AutoSize = true;
-            this.radioButtonDeleteUser.Font = new System.Drawing.Font("Cambria", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButtonDeleteUser.Location = new System.Drawing.Point(294, 53);
-            this.radioButtonDeleteUser.Name = "radioButtonDeleteUser";
-            this.radioButtonDeleteUser.Size = new System.Drawing.Size(129, 26);
-            this.radioButtonDeleteUser.TabIndex = 1;
-            this.radioButtonDeleteUser.TabStop = true;
-            this.radioButtonDeleteUser.Text = "Delete User";
-            this.radioButtonDeleteUser.UseVisualStyleBackColor = true;
+            this.buttonDeletwuser.AccessibleName = "Delete User";
+            this.buttonDeletwuser.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.buttonDeletwuser.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonDeletwuser.Location = new System.Drawing.Point(254, 76);
+            this.buttonDeletwuser.Name = "buttonDeletwuser";
+            this.buttonDeletwuser.Size = new System.Drawing.Size(201, 45);
+            this.buttonDeletwuser.TabIndex = 15;
+            this.buttonDeletwuser.Text = "Delete User";
+            this.buttonDeletwuser.UseVisualStyleBackColor = false;
             // 
-            // radioButtonUpdateUser
+            // button2
             // 
-            this.radioButtonUpdateUser.AutoSize = true;
-            this.radioButtonUpdateUser.Font = new System.Drawing.Font("Cambria", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radioButtonUpdateUser.Location = new System.Drawing.Point(475, 53);
-            this.radioButtonUpdateUser.Name = "radioButtonUpdateUser";
-            this.radioButtonUpdateUser.Size = new System.Drawing.Size(135, 26);
-            this.radioButtonUpdateUser.TabIndex = 2;
-            this.radioButtonUpdateUser.TabStop = true;
-            this.radioButtonUpdateUser.Text = "Update User";
-            this.radioButtonUpdateUser.UseVisualStyleBackColor = true;
+            this.button2.AccessibleName = "Login";
+            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(461, 76);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(201, 45);
+            this.button2.TabIndex = 16;
+            this.button2.Text = "Remove User";
+            this.button2.UseVisualStyleBackColor = false;
             // 
             // Dashbord
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(728, 271);
-            this.Controls.Add(this.radioButtonUpdateUser);
-            this.Controls.Add(this.radioButtonDeleteUser);
-            this.Controls.Add(this.radioButtonAddUser);
+            this.ClientSize = new System.Drawing.Size(722, 205);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.buttonDeletwuser);
+            this.Controls.Add(this.buttonAdduser);
             this.Name = "Dashbord";
             this.Text = "Dashbord";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.RadioButton radioButtonAddUser;
-        private System.Windows.Forms.RadioButton radioButtonDeleteUser;
-        private System.Windows.Forms.RadioButton radioButtonUpdateUser;
+        private System.Windows.Forms.Button buttonAdduser;
+        private System.Windows.Forms.Button buttonDeletwuser;
+        private System.Windows.Forms.Button button2;
     }
 }

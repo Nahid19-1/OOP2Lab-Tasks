@@ -34,7 +34,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.textBoxUserName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.buttonLogin = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -98,24 +98,25 @@
             this.label2.TabIndex = 0;
             this.label2.Text = "Login Form";
             // 
-            // button1
+            // buttonLogin
             // 
-            this.button1.AccessibleName = "Login";
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(299, 249);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(201, 45);
-            this.button1.TabIndex = 13;
-            this.button1.Text = "Login";
-            this.button1.UseVisualStyleBackColor = false;
+            this.buttonLogin.AccessibleName = "Login";
+            this.buttonLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.buttonLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonLogin.Location = new System.Drawing.Point(299, 249);
+            this.buttonLogin.Name = "buttonLogin";
+            this.buttonLogin.Size = new System.Drawing.Size(201, 45);
+            this.buttonLogin.TabIndex = 13;
+            this.buttonLogin.Text = "Login";
+            this.buttonLogin.UseVisualStyleBackColor = false;
+            this.buttonLogin.Click += new System.EventHandler(this.ApperDashbord);
             // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(717, 450);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.buttonLogin);
             this.Controls.Add(this.panel1);
             this.Name = "Login";
             this.Text = "Login";
@@ -133,6 +134,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textBoxUserName;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button buttonLogin;
     }
 }

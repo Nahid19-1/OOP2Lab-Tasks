@@ -76,6 +76,9 @@
     <EmbeddedResource Include="Dashbord.resx">
       <DependentUpon>Dashbord.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Dashbord2.resx">
+      <DependentUpon>Dashbord2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

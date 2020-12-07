@@ -12,9 +12,18 @@ namespace LabWork8
 {
     public partial class Dashbord : Form
     {
-        public Dashbord()
+        private void AppearDashbord2(object sender, EventArgs e)
+        {
+            new Form1().Show();
+        }
+        public Dashbord(User user)
         {
             InitializeComponent();
+            string Output = String.Format("First Name : {0}" +
+              "\nLast User Name : {1}" +
+              "\nUser Password : {2}", user.UserName, user.Password);
         }
+
+      
     }
 }
