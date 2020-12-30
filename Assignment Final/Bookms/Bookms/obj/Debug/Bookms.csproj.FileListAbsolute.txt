@@ -1,0 +1,13 @@
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\bin\Debug\Bookms.exe.config
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\bin\Debug\Bookms.exe
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\bin\Debug\Bookms.pdb
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\obj\Debug\Bookms.csprojAssemblyReference.cache
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\obj\Debug\Bookms.Properties.Resources.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\obj\Debug\Bookms.Views.Login.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\obj\Debug\Bookms.csproj.GenerateResource.cache
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\obj\Debug\Bookms.csproj.CoreCompileInputs.cache
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\obj\Debug\Bookms.exe
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\obj\Debug\Bookms.pdb
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\obj\Debug\Bookms.Views.AllBooks.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\obj\Debug\Bookms.Views.Addbook.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Assignment Final\Bookms\Bookms\obj\Debug\Bookms.Views.Book_DetailsForm.resources

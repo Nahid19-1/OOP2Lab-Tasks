@@ -19,7 +19,7 @@ namespace LabWork8
 
         private void ApperDashbord(object sender, EventArgs e)
         {
-            new Dashbord().Show();
+           new Dashbord().Show();
         }
 
         private void Authencate(object sender, EventArgs e)
@@ -68,5 +68,6 @@ namespace LabWork8
                 MessageBox.Show(errMeg);
             }
         }
+
     }
 }
