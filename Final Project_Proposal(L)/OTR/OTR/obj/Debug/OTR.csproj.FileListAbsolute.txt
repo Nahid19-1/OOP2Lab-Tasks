@@ -1,0 +1,42 @@
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\bin\Debug\OTR.exe.config
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\bin\Debug\OTR.exe
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\bin\Debug\OTR.pdb
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.csprojAssemblyReference.cache
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Properties.Resources.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.csproj.GenerateResource.cache
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.csproj.CoreCompileInputs.cache
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.exe
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.pdb
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Form1.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.LoginAdminForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.AdminHandForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.LoginFormUser.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.AppCart.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.AppviewForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.UserTask.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.UserRegisteredForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.OrderInfoForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.InventoryForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.RevenueForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.bKash.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\bin\Debug\OTR.exe.config
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\bin\Debug\OTR.exe
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\bin\Debug\OTR.pdb
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.csprojAssemblyReference.cache
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Form1.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Properties.Resources.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.AdminHandForm.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.AppCart.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.AppviewForm.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.bKash.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.InventoryForm.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.LoginAdminForm.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.LoginFormUser.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.OrderInfoForm.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.RevenueForm.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.UserRegisteredForm.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.UserTask.resources
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.csproj.GenerateResource.cache
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.csproj.CoreCompileInputs.cache
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.exe
+C:\Users\NAHID\Desktop\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.pdb

@@ -1,0 +1,42 @@
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\bin\Debug\OTR.exe.config
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\bin\Debug\OTR.exe
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\bin\Debug\OTR.pdb
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.csprojAssemblyReference.cache
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Properties.Resources.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.csproj.GenerateResource.cache
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.csproj.CoreCompileInputs.cache
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.exe
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.pdb
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Form1.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.LoginAdminForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.AdminHandForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.LoginFormUser.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.AppCart.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.AppviewForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.UserTask.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.UserRegisteredForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.OrderInfoForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.InventoryForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.RevenueForm.resources
+D:\Study\S6\OBJECT ORIENTED PROGRAMMING 2 [L]\Practice\Project_Proposal(L)\OTR\OTR\obj\Debug\OTR.Views.bKash.resources
+G:\JOB\OTR\OTR\OTR\bin\Debug\OTR.exe.config
+G:\JOB\OTR\OTR\OTR\bin\Debug\OTR.exe
+G:\JOB\OTR\OTR\OTR\bin\Debug\OTR.pdb
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.csprojAssemblyReference.cache
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Form1.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Properties.Resources.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.AdminHandForm.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.AppCart.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.AppviewForm.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.bKash.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.InventoryForm.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.LoginAdminForm.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.LoginFormUser.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.OrderInfoForm.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.RevenueForm.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.UserRegisteredForm.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.Views.UserTask.resources
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.csproj.GenerateResource.cache
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.csproj.CoreCompileInputs.cache
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.exe
+G:\JOB\OTR\OTR\OTR\obj\Debug\OTR.pdb
